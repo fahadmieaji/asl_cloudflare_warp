@@ -10,7 +10,10 @@ This script automates the installation, registration, and connection of the Clou
 - Verifies connection status at the end.
 
 ## Usage
-1. Transfer `automate_warp.sh` to your Linux machine.
+1. Download the script directly to your Linux machine:
+   ```bash
+   wget https://github.com/fahadmieaji/asl_cloudflare_warp/raw/refs/heads/main/automate_warp.sh
+   ```
 2. Make it executable:
    ```bash
    chmod +x automate_warp.sh
